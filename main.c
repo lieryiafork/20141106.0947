@@ -1,1 +1,5 @@
-hello lieryia!
+#hello lieryia!
+void main (void)
+{
+  return;
+}
