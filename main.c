@@ -1,5 +1,5 @@
-#hello lieryia!
-void main (void)
+hello lieryia!
 {
+  printf(" hello world!");
   return;
 }
